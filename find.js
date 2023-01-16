@@ -16,5 +16,3 @@ const inventory = [
 const result = inventory.find(({ name }) => name === "oranges");
 
 console.log(result);
-
-// Example 3
